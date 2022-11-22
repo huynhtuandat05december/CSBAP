@@ -1,0 +1,8 @@
+% Vessel index, mooring time $u_i$, starting berth position occupied $v_i$
+1	12	10
+2	12	0
+3	0	0
+4	2	0
+5	15	15
+6	18	0
+7	8	20
